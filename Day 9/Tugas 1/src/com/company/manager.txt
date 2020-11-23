@@ -1,0 +1,1 @@
+[{"Absensi Hari :":5,"Nama :":"jeff","Tunjangan Entertainment :":250000,"ID :":1,"Gaji Pokok :":6000000,"Tunjangan Transportasi :":0,"No Telepon :":["088","0902","232"],"Tunjangan Pulsa :":100000}]
